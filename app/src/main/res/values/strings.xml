@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Adaptive Notes</string>
+    <string name="back">Back</string>
+    <string name="notes_list">Notes</string>
+    <string name="details">Details</string>
+    <string name="note_details">Note Details</string>
+    <string name="share">Share</string>
+    <string name="empty_state">No notes</string>
+    <string name="note_label">Note %1$s</string>
+</resources>

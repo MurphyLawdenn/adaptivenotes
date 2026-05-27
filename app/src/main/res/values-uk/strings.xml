@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Адаптивні Нотатки</string>
+    <string name="back">Назад</string>
+    <string name="notes_list">Нотатки</string>
+    <string name="details">Деталі</string>
+    <string name="note_details">Деталі нотатки</string>
+    <string name="share">Поділитися</string>
+    <string name="empty_state">Немає нотаток</string>
+    <string name="note_label">Нотатка %1$s</string>
+</resources>
